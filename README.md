@@ -1,6 +1,8 @@
 # Website Background Color Changer - Chrome Extension
 
-A Chrome Extension that allows you to dynamically change the background color of any website using a beautiful VS Code-style color picker.
+A Chrome Extension that allows you to dynamically change the background color of any website using a beautiful color palatte style color picker.
+
+---
 
 ## Features
 
@@ -10,6 +12,8 @@ A Chrome Extension that allows you to dynamically change the background color of
 - 💻 **Hex & RGB Input**: Manual color input with live preview
 - 🔄 **Reset Functionality**: Restore original background color
 - ✨ **Smooth Animations**: Polished user experience
+
+---
 
 ## Installation
 
@@ -33,6 +37,8 @@ A Chrome Extension that allows you to dynamically change the background color of
    - Place them in the extension folder
    - Or remove the `icons` section from `manifest.json` if you don't have icons
 
+---
+
 ## Usage
 
 1. **Navigate to any website** you want to modify
@@ -51,6 +57,8 @@ A Chrome Extension that allows you to dynamically change the background color of
    - Click "Reset" to restore the original background
    - Click "×" to close the color picker
 
+---
+
 ## Files Structure
 
 ```
@@ -62,12 +70,16 @@ Chrome Extension/
 └── README.md             # This file
 ```
 
+---
+
 ## How It Works
 
 - **Content Script**: Injected into every webpage to add the color picker functionality
 - **Color Wheel**: Renders a full-spectrum color wheel using HTML5 Canvas
 - **Background Script**: Handles the extension icon click to toggle the color picker
 - **DOM Manipulation**: Applies the selected color directly to the website's body element
+
+---
 
 ## Customization
 
@@ -76,6 +88,8 @@ You can customize the extension by:
 - **Adding more preset colors**: Edit the `preset-colors` section in `content.js`
 - **Changing the UI theme**: Modify colors in `color-picker.css`
 - **Adjusting the color wheel size**: Change the canvas size in `content.js`
+
+---
 
 ## Browser Compatibility
 
@@ -93,3 +107,20 @@ You can customize the extension by:
 
 Free to use and modify for personal or commercial projects.
 
+---
+
+## 👨‍💻 Author
+
+### Vinaal R
+
+Passionate Learner | Aspiring Developer | Python Enthusiast
+
+### Contact me through 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaal/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
+
+<a href="https://vinaalr.netlify.app/">
+  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
+</a>
+
+---
